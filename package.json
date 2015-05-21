@@ -1,0 +1,8 @@
+{
+  "name": "quickjdict",
+  "main":"./index.html",
+  "window":{
+    "toolbar":true,
+    "show":true
+  }
+}
